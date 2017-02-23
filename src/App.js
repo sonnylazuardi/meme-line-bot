@@ -38,6 +38,12 @@ class App extends Component {
                 </div>
 
                 <img alt="" src={qrcode} />
+
+                <div>
+                    <a href="https://line.me/R/ti/p/%40zob7817f">
+                        <img height="36" border="0" alt="Tambah Teman" src="https://scdn.line-apps.com/n/line_add_friends/btn/en.png" />
+                    </a>
+                </div>
                 
               </div>
             </div>
